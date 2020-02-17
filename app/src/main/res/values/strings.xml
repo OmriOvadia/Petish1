@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petish</string>
+    <string name="privacy_policy">By signing up you agree to the tems of service and privacy policy</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="no_items">Sorry no items at the moment</string>
+    <string name="search">Search</string>
+</resources>
